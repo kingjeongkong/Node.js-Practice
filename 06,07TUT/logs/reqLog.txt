@@ -1,8 +1,8 @@
-20241103	20:45:21	0644a8ad-5bfe-4a17-8ab0-67ee45456413	/new-page	GET
-20241103	20:45:21	6159fca0-10fc-4e89-817e-3e47d3d8d06a	/css/style.css	GET
-20241103	20:45:21	31b1e1fa-451e-4b78-9301-6bc915187825	/img/img1.jpg	GET
-20241103	20:45:21	7d2f9420-4b60-4373-80af-c81ea4eff313	/favicon.ico	GET
-20241103	20:46:30	6cbfbc41-ecc5-4fcd-9a85-611ee10b8bde	/new-page	GET
-20241103	20:47:24	a7d9d3df-05fe-4e9c-bd62-1902dd97ceb0	/new-page	GET
-20241103	20:47:24	0619966e-61b4-48e4-803a-efeee73b5d5e	/css/style.css	GET
-20241103	20:47:24	31dee382-cb9d-45c5-9019-da41bd6e1537	/img/img1.jpg	GET
+20241105	04:38:17	84ff136b-98d0-4ead-94bd-e4c733bd3dcb	GET	undefined	/new-page.html
+20241105	04:38:17	a59e7412-26d4-4149-8201-ab8e3652668a	GET	undefined	/css/style.css
+20241105	04:38:17	c4572b7d-f4cb-4a01-b219-64111d6ea935	GET	undefined	/img/img1.jpg
+20241105	04:43:35	be791d91-a15b-445f-ae14-91ceb4b33fcb	GET	undefined	/new-page.html
+20241105	04:43:35	577ebdec-fde7-4c8b-8e92-2717f79cfc90	GET	undefined	/css/style.css
+20241105	04:43:35	3e758075-e6de-477e-8594-040f54c18891	GET	undefined	/img/img1.jpg
+20241105	04:52:31	3a9b534c-dd08-4965-a465-dacd565985d0	OPTIONS	https://www.google.com	/
+20241105	04:52:31	4d6da8f4-d06b-45bd-a022-db1810203caf	GET	https://www.google.com	/
