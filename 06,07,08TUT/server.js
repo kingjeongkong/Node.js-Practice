@@ -31,6 +31,9 @@ app.use(express.json());
 
 // built in middleware to serve static files
 app.use(express.static(path.join(__dirname, '/public')));
+app.use('/subdir', express.static(path.join(__dirname, '/public')));
+
+app.use('/subdir', require('./routes/subdir'));
 
 app.get('^/$|/index(.html)?', (req, res) => {
   // res.sendFile('./views/index.html', { root: __dirname });
