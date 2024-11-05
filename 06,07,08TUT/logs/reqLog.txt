@@ -21,3 +21,14 @@
 20241105	16:17:41	d7d78c2a-0695-41cf-a623-0514113cb197	GET	undefined	/
 20241105	16:18:28	f9b86095-ffbc-4cf9-a293-b7b4d418507e	GET	undefined	/
 20241105	16:18:28	085c8e8d-7d59-4ba8-b885-2db1a452c82a	GET	undefined	/css/style.css
+20241105	21:18:28	24323b6a-1167-475e-8853-757697845a07	GET	undefined	/
+20241105	21:18:28	f8aa8226-d469-4482-98df-cd567c7d76c9	GET	undefined	/css/style.css
+20241105	21:18:36	270d3f3f-5aa0-4b6e-911c-eca96c94436e	GET	undefined	/subdir
+20241105	21:19:15	7d210772-d70e-4e17-8b4c-690582a79f76	GET	undefined	/subdir
+20241105	21:19:44	2225cc3c-8ef2-4ea9-a050-dc7e7f8f0170	GET	undefined	/subdir/test.html
+20241105	21:19:59	6ed493a6-b9cb-4da5-99e4-6d736b5510d8	GET	undefined	/subdir/asdf
+20241105	21:19:59	e8432430-8194-4551-846a-35da13b47a6b	GET	undefined	/subdir/css/style.css
+20241105	22:00:24	83b9372a-d58e-4106-a2b6-a10cdd4c1fbc	GET	undefined	/subdir/asdf
+20241105	22:00:24	71bc5585-1ca5-4134-832a-2e4539823cf9	GET	undefined	/subdir/css/style.css
+20241105	22:00:50	22c3d71e-1fa6-46c5-b655-dcc2ed427dd6	GET	undefined	/subdir/asdf
+20241105	22:00:50	a71bf460-b2d0-417a-84f8-0f8d5c96b4ac	GET	undefined	/subdir/css/style.css
