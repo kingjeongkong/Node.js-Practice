@@ -102,3 +102,11 @@
 20241107	03:45:38	2904cd82-70a4-4189-89af-edd630bb34f6	DELETE	undefined	/employees
 20241107	03:46:42	04fcee01-bb5a-4a61-a797-2fc2ba961517	POST	undefined	/employees
 20241107	03:47:04	10edeeea-65a8-4ba1-996b-d290b336cb04	GET	undefined	/employees/3
+20241107	17:57:39	2e8d4007-e0ff-40b7-8b2d-9cceab6149e3	GET	undefined	/register
+20241107	17:57:44	0bd3666d-9527-4785-8607-00f73b36b750	POST	undefined	/register
+20241107	17:59:43	6a0f0f83-a99d-4aab-830b-6c9e5c7a6c39	POST	undefined	/register
+20241107	17:59:47	4a021a94-3b0e-4773-a0de-6e44b72b6837	POST	undefined	/register
+20241107	17:59:56	57f155a1-0de1-416b-8225-061b7902a1d5	POST	undefined	/register
+20241107	18:00:21	29a08bac-8805-4f18-b26a-13243e7e6bb5	POST	undefined	/register
+20241107	18:00:26	2b8a0f89-9427-403a-bbda-1a54bc7ee3b6	POST	undefined	/register
+20241107	18:00:50	8987cccb-b3cf-46c4-a57b-c717d69c1331	POST	undefined	/register
