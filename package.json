@@ -1,10 +1,10 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "main": "./09TUT/server.js",
+  "main": "./10TUT/server.js",
   "scripts": {
-    "start": "node 09TUT/server",
-    "dev": "node --watch 09TUT/server",
+    "start": "node 10TUT/server",
+    "dev": "node --watch 10TUT/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
