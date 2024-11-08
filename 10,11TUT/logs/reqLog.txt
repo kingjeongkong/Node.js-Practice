@@ -6,3 +6,9 @@
 20241108	19:13:30	005e8ef3-7da0-4cbb-83f0-2b346767fc8d	POST	undefined	/refresh
 20241108	19:13:31	176b6034-edfd-4a82-889e-cce1f505cbe6	POST	undefined	/refresh
 20241108	19:13:37	000a2259-652a-4545-9817-8751a4f0fc1c	GET	undefined	/refresh
+20241108	21:46:22	18fd6fc1-3bad-4f5d-9344-f6eb5d8358bb	POST	undefined	/auth
+20241108	21:46:59	ea4ad9d3-49b5-45bb-a5b4-daf0fe7ed064	GET	undefined	/logout
+20241108	21:47:34	1d15507b-eb31-4924-98c2-51effaa4de7b	GET	undefined	/employees
+20241108	21:47:53	6bf360e8-12ae-42e5-814f-65695b89fb5d	GET	undefined	/refresh
+20241108	21:49:17	b7475e7e-ebe3-4b98-916a-3b520ff55091	GET	undefined	/refresh
+20241108	21:50:16	fd6737b5-439a-461a-8b1c-cf52e7da5a40	GET	undefined	/refresh
