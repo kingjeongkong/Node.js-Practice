@@ -1,10 +1,10 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "main": "./10,11,12TUT/server.js",
+  "main": "./13TUT/server.js",
   "scripts": {
-    "start": "node 10,11,12TUT/server",
-    "dev": "node --watch 10,11,12TUT/server",
+    "start": "node 13TUT/server",
+    "dev": "node --watch 13TUT/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -19,6 +19,7 @@
     "express": "^4.21.1",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.10.0",
+    "mongoose": "^8.8.1",
     "uuid": "^11.0.2"
   }
 }
